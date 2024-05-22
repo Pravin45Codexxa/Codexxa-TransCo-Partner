@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#add55a</color>
+    <color name="colorPrimaryclick">#add55a</color>
+    <color name="colorPrimaryDark">#add55a</color>
+
+    <color name="colorAccent">#add55a</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#add55a</color>
+    <color name="colorgrey0">#F9F9F9</color>
+    <color name="colorgrey1">#F4F3F3</color>
+    <color name="colorgrey">#CFCFCF</color>
+    <color name="colorgrey2">#B3B3B3</color>
+    <color name="colorgrey3">#7A7878</color>
+
+    <color name="tranfarnt">#00D32A1E</color>
+    <color name="colorgreen">#61B047</color>
+    <color name="colorerror">#FF5657</color>
+    <color name="selectcolor">#add55a</color>
+
+</resources>
